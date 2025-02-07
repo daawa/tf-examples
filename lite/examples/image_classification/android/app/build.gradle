@@ -23,6 +23,7 @@ plugins {
 }
 
 android {
+    namespace "org.tensorflow.lite.examples.imageclassification"
     compileSdk 32
 
     defaultConfig {
